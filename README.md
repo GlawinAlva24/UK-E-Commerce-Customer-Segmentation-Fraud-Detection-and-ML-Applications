@@ -61,37 +61,9 @@ multi-ml-techniques-coursework/
 │   └── fraud_detection_models.py
 └── environment/
     └── requirements.txt
-## 📚 Project Highlights
 
-It covers:
-
-- **Unsupervised Learning**:  
-  - K-Means Clustering
-  - Hierarchical Clustering
-  - Principal Component Analysis (PCA)
-
-- **Reinforcement Learning**:  
-  - Grid World Utilities
-  - Optimal Policies for highlighted states
-
-- **Dimensionality Reduction**:  
-  - Factor Analysis on housing datasets to identify hidden factors
-
-- **Supervised Learning**:  
-  - Fraud Detection using:
-    - Random Forest
-    - Gradient Boosting
-    - Logistic Regression
-
-  ## 📂 Repository Structure
-  
-  multi-ml-techniques-coursework/
-├── datasets/                # Input data files
-├── notebooks/                # Jupyter notebooks for each sub-task
-├── reports/                  # Coursework final report
-├── code/                     # Python utility scripts for reusable components
-└── environment/              # requirements.txt file for easy setup
-
+ ---
+ 
 ##🛠️ Environment Setup
 Install all required libraries with:
 pip install -r environment/requirements.txt
@@ -110,20 +82,27 @@ seaborn
 
 imbalanced-learn
 
+---
+
 ## 📜 Reports
 
 - 📄 [Coursework Full Report](reports/coursework_report.pdf)
 
+---
+
 ##🏛️ Academic Context
 This project was completed as part of academic coursework for the MSc in Artificial Intelligence and Business Strategy at Aston University.
 
-##👨‍💻 About Me
-Glawin Alva
-AI-Focused Data Engineer | Data Science Enthusiast
-📍 Birmingham, United Kingdom
-📧 glawin24@gmail.com
-🔗 LinkedIn
-🐙 GitHub
+---
+
+## 👨‍💻 About Me
+
+**Glawin Alva**  
+AI-Focused Data Engineer | Data Science Enthusiast  
+📍 Birmingham, United Kingdom  
+📧 glawin24@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/glawin-alva-gg)  
+🐙 [GitHub](https://github.com/GlawinAlva24)
 
 
 
