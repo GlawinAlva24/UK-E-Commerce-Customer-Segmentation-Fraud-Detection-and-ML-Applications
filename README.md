@@ -40,27 +40,27 @@ It covers:
 
 📂 Folder Structure
 
-multi-ml-techniques-coursework/
-├── README.md
-├── datasets/
-│   ├── ecommerce_customers.csv         # (segmentation)
-│   ├── grid_utilities.npy               # (reinforcement learning grid)
-│   ├── house_price_features.csv         # (dimensionality reduction)
-│   ├── transaction_fraud_data.csv       # (fraud detection)
-├── notebooks/
-│   ├── 1_unsupervised_customer_segmentation.ipynb
-│   ├── 2_reinforcement_learning_grid.ipynb
-│   ├── 3_dimensionality_reduction_factor_analysis.ipynb
-│   ├── 4_fraud_detection_ml_models.ipynb
-├── reports/
-│   └── coursework_report.pdf
-├── code/
-│   ├── clustering_utils.py
-│   ├── reinforcement_utils.py
-│   ├── dimensionality_utils.py
-│   └── fraud_detection_models.py
-└── environment/
-    └── requirements.txt
+multi-ml-techniques-coursework/  
+├── README.md  
+├── datasets/  
+│   ├── ecommerce_customers.csv         # (segmentation)  
+│   ├── grid_utilities.npy               # (reinforcement learning grid)  
+│   ├── house_price_features.csv         # (dimensionality reduction)  
+│   ├── transaction_fraud_data.csv       # (fraud detection)  
+├── notebooks/  
+│   ├── 1_unsupervised_customer_segmentation.ipynb  
+│   ├── 2_reinforcement_learning_grid.ipynb  
+│   ├── 3_dimensionality_reduction_factor_analysis.ipynb  
+│   ├── 4_fraud_detection_ml_models.ipynb  
+├── reports/  
+│   └── coursework_report.pdf  
+├── code/  
+│   ├── clustering_utils.py  
+│   ├── reinforcement_utils.py  
+│   ├── dimensionality_utils.py  
+│   └── fraud_detection_models.py  
+└── environment/  
+    └── requirements.txt  
 
  ---
  
@@ -68,7 +68,7 @@ multi-ml-techniques-coursework/
 Install all required libraries with:
 pip install -r environment/requirements.txt
 
-*Main libraries used:*
+**Main libraries used:**
 
 pandas
 
