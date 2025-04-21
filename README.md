@@ -40,22 +40,22 @@ It covers:
 
 📂 Folder Structure
 
-uk-ecommerce-segmentation-fraud-ml-applications/
-├── README.md
-├── datasets/
-│   ├── ecommerce.csv                      # Dataset for customer segmentation
-│   ├── kc_house_data_reduced.csv           # Dataset for dimensionality reduction
-│   └── bs140513_032310.csv                 # Dataset for fraud detection
-├── notebooks/
-│   ├── 1_unsupervised_customer_segmentation.ipynb
-│   ├── 2_reinforcement_learning_grid.ipynb
-│   ├── 3_dimensionality_reduction_factor_analysis.ipynb
-│   └── 4_fraud_detection_ml_models.ipynb
-├── reports/
-│   └── coursework_report.pdf               # Your final coursework report (PDF)
+uk-ecommerce-segmentation-fraud-ml-applications/  
+├── README.md  
+├── datasets/  
+│   ├── ecommerce.csv                      # Dataset for customer segmentation   
+│   ├── kc_house_data_reduced.csv           # Dataset for dimensionality reduction  
+│   └── bs140513_032310.csv                 # Dataset for fraud detection  
+├── notebooks/  
+│   ├── 1_unsupervised_customer_segmentation.ipynb  
+│   ├── 2_reinforcement_learning_grid.ipynb  
+│   ├── 3_dimensionality_reduction_factor_analysis.ipynb  
+│   └── 4_fraud_detection_ml_models.ipynb  
+├── reports/  
+│   └── coursework_report.pdf               # final coursework report (PDF)  
 ├── environment/
-│   └── requirements.txt                    # Python libraries needed
-└── .gitignore                               # (Optional but recommended: ignore unnecessary files)
+│   └── requirements.txt                    # Python libraries needed  
+└── .gitignore                               # (Optional but recommended: ignore unnecessary files)  
 
 
  ---
