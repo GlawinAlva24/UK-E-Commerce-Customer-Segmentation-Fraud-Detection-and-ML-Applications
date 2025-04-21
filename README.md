@@ -53,7 +53,7 @@ uk-ecommerce-segmentation-fraud-ml-applications/
 │   └── 4_fraud_detection_ml_models.ipynb  
 ├── reports/  
 │   └── coursework_report.pdf               # final coursework report (PDF)  
-├── environment/
+├── environment/  
 │   └── requirements.txt                    # Python libraries needed  
 └── .gitignore                               # (Optional but recommended: ignore unnecessary files)  
 
