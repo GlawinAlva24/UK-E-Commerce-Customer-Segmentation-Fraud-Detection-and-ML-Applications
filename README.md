@@ -40,27 +40,23 @@ It covers:
 
 📂 Folder Structure
 
-multi-ml-techniques-coursework/  
-├── README.md  
-├── datasets/  
-│   ├── ecommerce_customers.csv         # (segmentation)  
-│   ├── grid_utilities.npy               # (reinforcement learning grid)  
-│   ├── house_price_features.csv         # (dimensionality reduction)  
-│   ├── transaction_fraud_data.csv       # (fraud detection)  
-├── notebooks/  
-│   ├── 1_unsupervised_customer_segmentation.ipynb  
-│   ├── 2_reinforcement_learning_grid.ipynb  
-│   ├── 3_dimensionality_reduction_factor_analysis.ipynb  
-│   ├── 4_fraud_detection_ml_models.ipynb  
-├── reports/  
-│   └── coursework_report.pdf  
-├── code/  
-│   ├── clustering_utils.py  
-│   ├── reinforcement_utils.py  
-│   ├── dimensionality_utils.py  
-│   └── fraud_detection_models.py  
-└── environment/  
-    └── requirements.txt  
+uk-ecommerce-segmentation-fraud-ml-applications/
+├── README.md
+├── datasets/
+│   ├── ecommerce.csv                      # Dataset for customer segmentation
+│   ├── kc_house_data_reduced.csv           # Dataset for dimensionality reduction
+│   └── bs140513_032310.csv                 # Dataset for fraud detection
+├── notebooks/
+│   ├── 1_unsupervised_customer_segmentation.ipynb
+│   ├── 2_reinforcement_learning_grid.ipynb
+│   ├── 3_dimensionality_reduction_factor_analysis.ipynb
+│   └── 4_fraud_detection_ml_models.ipynb
+├── reports/
+│   └── coursework_report.pdf               # Your final coursework report (PDF)
+├── environment/
+│   └── requirements.txt                    # Python libraries needed
+└── .gitignore                               # (Optional but recommended: ignore unnecessary files)
+
 
  ---
  
