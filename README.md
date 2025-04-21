@@ -100,7 +100,7 @@ imbalanced-learn
 
 ### 2. Reinforcement Learning (Grid World)
 
-- Example Optimal Policy Grid:
+- Example Optimal Policy Grid:  
 ['↑', '→', '→', '→']  
 ['↑', '→', '↓', '←']  
 ['↑', '↑', '↓', '←']  
