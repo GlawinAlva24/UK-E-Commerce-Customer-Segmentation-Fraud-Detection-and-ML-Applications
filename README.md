@@ -64,7 +64,7 @@ multi-ml-techniques-coursework/
 
  ---
  
-##🛠️ Environment Setup
+## 🛠️ Environment Setup
 Install all required libraries with:
 pip install -r environment/requirements.txt
 
