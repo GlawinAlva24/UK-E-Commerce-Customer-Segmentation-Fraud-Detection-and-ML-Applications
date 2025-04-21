@@ -43,7 +43,7 @@ It covers:
 uk-ecommerce-segmentation-fraud-ml-applications/  
 ├── README.md  
 ├── datasets/  
-│   ├── ecommerce.csv                      # Dataset for customer segmentation   
+│   ├── ecommerce.csv                       # Dataset for customer segmentation   
 │   ├── kc_house_data_reduced.csv           # Dataset for dimensionality reduction  
 │   └── bs140513_032310.csv                 # Dataset for fraud detection  
 ├── notebooks/  
