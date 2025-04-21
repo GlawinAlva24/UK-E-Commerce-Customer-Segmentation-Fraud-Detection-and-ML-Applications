@@ -54,8 +54,8 @@ uk-ecommerce-segmentation-fraud-ml-applications/
 ├── reports/  
 │   └── coursework_report.pdf               # final coursework report (PDF)  
 ├── environment/  
-│   └── requirements.txt                    # Python libraries needed  
-└── .gitignore                               # (Optional but recommended: ignore unnecessary files)  
+    └── requirements.txt                    # Python libraries needed  
+
 
 
  ---
