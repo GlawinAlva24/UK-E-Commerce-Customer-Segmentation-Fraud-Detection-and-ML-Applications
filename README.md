@@ -86,6 +86,47 @@ imbalanced-learn
 
 ---
 
+## 🔥 Key Results
+
+### 1. Customer Segmentation (Unsupervised Learning)
+
+- Optimal Clusters found: **4**
+- Silhouette Score: **0.64**
+- PCA Visualization Example:
+
+> _(Optional: Insert a PCA plot image if available.)_
+
+---
+
+### 2. Reinforcement Learning (Grid World)
+
+- Example Optimal Policy Grid:
+['↑', '→', '→', '→']
+['↑', '→', '↓', '←']
+['↑', '↑', '↓', '←']
+['→', '→', '↓', '★']
+
+---
+
+### 3. Dimensionality Reduction (Factor Analysis)
+
+- Factors Retained: **3**
+- Total Explained Variance: **79.5%**
+
+---
+
+### 4. Fraud Detection (Supervised Learning)
+
+| Model                | Accuracy | Precision | Recall | F1 Score |
+|----------------------|----------|-----------|--------|----------|
+| Random Forest        | 0.988    | 0.93      | 0.92   | 0.925    |
+| Gradient Boosting    | 0.985    | 0.90      | 0.89   | 0.895    |
+| Logistic Regression  | 0.972    | 0.84      | 0.82   | 0.83     |
+
+✅ **Best Model**: Random Forest Classifier
+
+---
+
 ## 🏛️ Academic Context
 This project was completed as part of academic coursework for the MSc in Artificial Intelligence and Business Strategy at Aston University.
 
