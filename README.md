@@ -90,7 +90,7 @@ imbalanced-learn
 
 ---
 
-##🏛️ Academic Context
+## 🏛️ Academic Context
 This project was completed as part of academic coursework for the MSc in Artificial Intelligence and Business Strategy at Aston University.
 
 ---
